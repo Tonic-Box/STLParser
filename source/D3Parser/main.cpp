@@ -2,9 +2,6 @@
 //  main.cpp
 //  D3Parser
 //
-//  Created by Artem Shimanski on 19.09.12.
-//  Copyright (c) 2012 Artem Shimanski. All rights reserved.
-//
 
 #include <iostream>
 #include <fstream>
